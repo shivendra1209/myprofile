@@ -1,0 +1,113 @@
+html{
+    background-color: #D3D3D3;
+}
+body {
+  background-color: blue; 
+}
+#h2{
+    margin-top: 0px;
+    height: 75px;
+    background-color:#C0C0C0;
+}
+#head{
+    margin: 0px;
+    padding:15px 0px 15px 5px;
+}
+#pic{
+
+    width: 275px;
+    border-top: 5px green solid;
+    margin:20px 10px 0px 10px ;
+    float:left;
+    padding: 30px 15px 0px 15px;
+    background-color:white;
+    
+
+    
+}
+button.btn1{
+    background-color: green;
+    height:30px;
+    width: 250px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border: hidden;
+    
+}
+   
+button.btn2{
+    background-color: #808080; 
+    
+    margin-top: 0px;
+    height:30px;
+    width: 250px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border: hidden;
+}
+
+.glyphicon.glyphicon-envelope{
+    color: white;
+
+
+}
+#box{
+    margin-top:20px;
+    margin-right: 10px;
+    height: 400px;
+    background-color:white;
+    float: right;
+   width: 950px;
+    
+    font-size: 22px;
+    
+    
+}
+li{
+    padding: 0px;
+    margin: 0px;
+    word-spacing: 5px;
+    text-decoration-color: white;
+    
+}
+.list{
+    color: white;
+}
+.nav{
+    
+    background-color: green;
+    color: white;
+}
+.nav-navbar-left{
+    height: 20px;
+    width:1000px;
+    padding: 0;
+    margin: 0;
+    
+}
+.glyphicon.glyphicon-user{
+    color: black;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+#edit{
+    line-height: 100px;
+}
+button.btn{
+    float: right;
+    margin-right: 20px;
+    background-color: orange;
+}
+#about{
+    margin:0px 200px 0px 0px;
+    float: left;
+}
+#content{
+    padding-left: 20px;
+}
